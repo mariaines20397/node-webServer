@@ -4,7 +4,7 @@ Toledo, María Inés
 
 # Sobre el proyecto:
 
-Sistema que tiene por objetivo realizar una busqueda de ciudades y mostrar distintos datos de ese lugar como el clima. También incluye un historial de las ciudadas que se seleccionaron. El proyecto se muestra por consola.
+Sistema que tiene por objetivo poner en practica el uso de node, express y deployar aplicación en Railway.
 
 ```
 Pasos para ejecutar el proyecto:
@@ -17,12 +17,11 @@ Pasos para ejecutar el proyecto:
 ```
 Tecnología usada:
       NodeJS
+      Express
 ```
 
 ```
 Dependencias:
-      colors
-      inquirer
-      axios
+      hbs
       dotenv
 ```
